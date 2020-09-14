@@ -9,6 +9,8 @@
 - [x] SPSS
 - [x] Power BI
 - [x] Arena 
+- [x] Sql
+- [x] mongoDB
  
  
  ![Anne Francine's github stats](https://github-readme-stats.vercel.app/api?username=annefrancine&show_icons=true&theme=radical)
