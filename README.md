@@ -1,6 +1,11 @@
-## <!-- Hi! Salut !  My name is Anne Francine . Welcome to my profile !!! :smiley: -->
+ ## Hi! Salut !  My name is Anne Francine . Welcome to my profile !!! :smiley: 
+ 
+ ## 💬 About Me:
 
-:computer: Data Scientist / :chart_with_upwards_trend: Economist and  👩‍🏫 teacher !!!  :earth_africa: Paris, France 
+- Data scientist , economist and teacher data
+- PhD in  industrial engineering (focus on data supply chain )
+- 3 + experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and Operational research
+- Coach Lean Data / Lean Business Intelligence 
 
 ### Languages and Tools:
 
@@ -8,15 +13,21 @@
 - [x] R  
 - [x] SPSS 
 - [x] Power BI
+- [x] Google Data Studio
 - [x] Azure 
 - [x] MySQL
 - [x] mongoDB 
- 
- 
- - 🤝 I’m looking to collaborate on data science and deep learning projects.
+
+
+## 📫 Reach me on:
+
  
 [![Anne Francine's github stats](https://github-readme-stats.vercel.app/api?username=annefrancine)](https://github.com/annefrancine/github-readme-stats)
 
+You can find me on : 
+
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 
 
-<img src="https://miro.medium.com/max/500/0*VV3Nmxgv3KX4sLhr.gif" />
+[![ https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white&
+
