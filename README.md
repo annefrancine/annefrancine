@@ -4,7 +4,7 @@
 
 - Data scientist , economist and teacher data 
 - PhD in  industrial engineering (focus on data supply chain )
-- 3 + experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and Operational research
+- 3 + experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and operational research
 - Coach Lean Data / Lean Business Intelligence 
 
 ## Languages and Tools:
