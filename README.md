@@ -4,7 +4,7 @@
 
 - Data scientist , economist and teacher data 
 - PhD in  industrial engineering (focus on data supply chain )
-- 3 + experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and operational research
+- + 3 years of experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and operational research
 - Coach Lean Data / Lean Business Intelligence 
 
 ## Languages and Tools:
@@ -24,7 +24,7 @@
 
 ## 📬 Get in Touch : 
 
-- LinkedIn: https://www.linkedin.com/in/anne-francine-martins/
+- LinkedIn: https://www.linkedin.com/in/anne-francine-martins/  
 - E-mail: anne.francine.martins@gmail.com
 
 <img src="https://miro.medium.com/max/500/0*VV3Nmxgv3KX4sLhr.gif" />
