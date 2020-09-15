@@ -25,8 +25,9 @@
 📬 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/anne-francine-martins/
-- E-mail: anne.francine.martins@gmail.com
+- E-mail: anne.francine.martins@gmail.c
+
+<img src="https://miro.medium.com/max/500/0*VV3Nmxgv3KX4sLhr.gif" />
 
 
-[![ https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white&
 
