@@ -22,7 +22,7 @@
 [![Anne Francine's github stats](https://github-readme-stats.vercel.app/api?username=annefrancine)](https://github.com/annefrancine/github-readme-stats)
 
 
-📬 Get in Touch
+## 📬 Get in Touch : 
 
 - LinkedIn: https://www.linkedin.com/in/anne-francine-martins/
 - E-mail: anne.francine.martins@gmail.com
