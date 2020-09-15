@@ -13,5 +13,8 @@
 - [x] mongoDB 
  
  
- ![Anne Francine's github stats](https://github-readme-stats.vercel.app/api?username=annefrancine&show_icons=true&theme=radical)
+ - 🤝 I’m looking to collaborate on data science and deep learning projects.
  
+[![Anne Francine's github stats](https://github-readme-stats.vercel.app/api?username=annefrancine)](https://github.com/annefrancine/github-readme-stats)
+
+<img src="https://miro.medium.com/max/500/0*VV3Nmxgv3KX4sLhr.gif" />
