@@ -7,7 +7,7 @@
 - experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and operational research
 - Coach Lean Data / Lean Business Intelligence 
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 
 - [x] Python 
 - [x] R  
