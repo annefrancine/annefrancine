@@ -3,7 +3,7 @@
  ## 💬 A little more about me..:
 
 - Data scientist , economist and teacher data 
-- PhD in  industrial engineering (focus on data supply chain )
+- PhD in  industrial engineering
 - experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and operational research
 - Coach Lean Data / Lean Business Intelligence 
 
@@ -15,7 +15,7 @@
 - [x] Power BI
 - [x] Google Data Studio
 - [x] Azure 
-- [x] MySQL
+- [x] MySQL/ Microsoft SQL Server 
 - [x] mongoDB 
 
  
