@@ -1,10 +1,10 @@
- ## Hi! Salut !  My name is Anne Francine . Welcome to my profile !!! :smiley: 
+ ## Hi There ! I'm Anne Francine . Welcome to my profile !!! :smiley: 
  
  ## 💬 A little more about me..:
 
 - Data scientist , economist and teacher data 
 - PhD in  industrial engineering
-- experience  in data analysis applied in financial management, supply chain (purchasing and inventory management) and operational research
+- experience  in data analysis  applied in financial management, econometrics, supply chain (purchasing and inventory management) and operational research
 - Coach Lean Data / Lean Business Intelligence 
 
 ## 💻 Languages and Tools:
@@ -14,9 +14,10 @@
 - [x] SPSS 
 - [x] Power BI
 - [x] Google Data Studio
-- [x] Azure 
+- [x] Azure ML and Cognitive Services
 - [x] MySQL/ Microsoft SQL Server 
 - [x] mongoDB 
+- [x] Databricks (Pyspark, sql)
 
  
 [![Anne Francine's github stats](https://github-readme-stats.vercel.app/api?username=annefrancine)](https://github.com/annefrancine/github-readme-stats)
