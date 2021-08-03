@@ -2,10 +2,9 @@
  
  ## 💬 A little more about me..:
 
-- Data scientist , economist and teacher data 
+- Data scientist , economist and instructor data analytics
 - PhD in  industrial engineering
 - experience  in data analysis  applied in financial management, econometrics, supply chain (purchasing and inventory management) and operational research
-- Coach Lean Data / Lean Business Intelligence 
 
 ## 💻 Languages and Tools:
 
