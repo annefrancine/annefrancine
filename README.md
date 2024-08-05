@@ -10,12 +10,11 @@
 
 - [x] Python 
 - [x] R  
-- [x] SPSS 
 - [x] Power BI
-- [x] Google Data Studio
-- [x] Azure ML and Cognitive Services
-- [x] MySQL/ Microsoft SQL Server 
-- [x] mongoDB 
+- [x] Docker / Kubernetes
+- [x] Azure / Google Cloud 
+- [x] MySQL/ PostgreSQL / Google BigQuery
+- [x] MongoDB
 - [x] Databricks (Pyspark, sql)
 
  
